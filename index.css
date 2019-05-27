@@ -163,14 +163,14 @@ header table {
   header {
     width: 96vw;
     background: #fff;
-    padding: 4vh 2vw;
+    padding: 2vh 2vw;
     position: absolute;
   }
   #header table tr td {
     width: 100%;
     display: block;
     text-align: center;
-    padding: 15px 0px;
+    padding: 5px 0px;
   }
   #navigation a {
     color: #000;
