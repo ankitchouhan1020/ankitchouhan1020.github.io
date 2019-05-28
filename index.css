@@ -143,11 +143,24 @@ header table {
     text-align: center;
   }
   .btn_one {
+<<<<<<< HEAD
     padding:6px 30px;
     width:60%;
     margin:4vh auto;
     box-shadow:0px 10px 20px rgba(255, 44, 90, 0.8);
     background:rgb(255, 44, 90);
+=======
+    padding: 6px 30px;
+    width: 60%;
+    margin: 4vh auto;
+    color: rgb(255, 44, 90);
+    background: #fff;
+    color: #fff;
+  }
+  .btn_one:hover {
+    box-shadow: 0px 10px 40px rgba(255, 44, 90, 0.8);
+    cursor: pointer;
+>>>>>>> 3f021f68c8b0d190d57c35141e9af9364faf0b7a
     color:#fff;
     }
     .btn_one:hover {
@@ -157,14 +170,14 @@ header table {
   header {
     width: 96vw;
     background: #fff;
-    padding: 4vh 2vw;
+    padding: 2vh 2vw;
     position: absolute;
   }
   #header table tr td {
     width: 100%;
     display: block;
     text-align: center;
-    padding: 15px 0px;
+    padding: 5px 0px;
   }
   #navigation a {
     color: #000;
